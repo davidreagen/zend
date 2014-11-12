@@ -4,7 +4,7 @@ class DashboardController extends Zend_Controller_Action
     public function init()
     {
         /* Initialize action controller here */
-		/*init ke tiga */
+		/*init ke empat */
     }
     public function indexAction()
     {   
